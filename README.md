@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">backend developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 🌱 I’m currently learning **backend development at BloomTech**
 
