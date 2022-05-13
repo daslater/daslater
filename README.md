@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **davidaustinslater@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GAMoEfdKd3PmTB7nuyZX7AoR4lZvpjdYouPA6rx8C00/edit?usp=sharing](https://docs.google.com/document/d/1GAMoEfdKd3PmTB7nuyZX7AoR4lZvpjdYouPA6rx8C00/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1GAMoEfdKd3PmTB7nuyZX7AoR4lZvpjdYouPA6rx8C00/edit?usp=sharing](My Resume)
 
 - ⚡ Fun fact **I'm an amateur naturalist**
 
