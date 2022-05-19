@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **backend development at BloomTech**
 
-- 💬 Ask me about **Java, Kotlin, algorithms**
+- 💬 Ask me about **Java, Kotlin, Python, AWS, algorithms**
 
 - 📫 How to reach me **davidaustinslater@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1GAMoEfdKd3PmTB7nuyZX7AoR4lZvpjdYouPA6rx8C00/edit?usp=sharing)
+- 📄 Want to know more about my experience? Check out [my Resume](https://docs.google.com/document/d/1GAMoEfdKd3PmTB7nuyZX7AoR4lZvpjdYouPA6rx8C00/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm an amateur naturalist**
 
